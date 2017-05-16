@@ -22,5 +22,7 @@ public:
     vector<Vector3f> gyrs;
     vector<Vector3f> accs;
     vector<Vector3f> lins;
+
+    int counter;
 };
 

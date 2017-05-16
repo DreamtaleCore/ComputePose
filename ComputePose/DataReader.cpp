@@ -7,6 +7,7 @@ DataReader::DataReader()
     gyrs.clear();
     accs.clear();
     lins.clear();
+    counter = 0;
 }
 
 DataReader::~DataReader()
@@ -51,6 +52,7 @@ void DataReader::read(string path)
             gyrs.push_back(gyr);
             accs.push_back(acc);
             lins.push_back(lin);
+            counter++;
         }
 
         in.close();
