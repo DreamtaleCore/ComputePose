@@ -24,10 +24,10 @@
     <ClCompile Include="Filter.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Fusion.cpp">
+    <ClCompile Include="DataWriter.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="DataWriter.cpp">
+    <ClCompile Include="ComputePose.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -38,10 +38,10 @@
     <ClInclude Include="Filter.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Fusion.h">
+    <ClInclude Include="DataWriter.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="DataWriter.h">
+    <ClInclude Include="ComputePose.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
