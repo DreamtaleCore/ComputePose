@@ -122,12 +122,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DataReader.cpp" />
+    <ClCompile Include="DataWriter.cpp" />
     <ClCompile Include="Filter.cpp" />
     <ClCompile Include="Fusion.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataReader.h" />
+    <ClInclude Include="DataWriter.h" />
     <ClInclude Include="Filter.h" />
     <ClInclude Include="Fusion.h" />
   </ItemGroup>

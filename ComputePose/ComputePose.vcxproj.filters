@@ -27,6 +27,9 @@
     <ClCompile Include="Fusion.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="DataWriter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataReader.h">
@@ -36,6 +39,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Fusion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataWriter.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
